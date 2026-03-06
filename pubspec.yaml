@@ -47,6 +47,7 @@ dependencies:
 
   # Utils
   intl: ^0.20.2
+  google_fonts: 5.1.0
 
 dev_dependencies:
   flutter_test:
